@@ -1,0 +1,20 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Groovy" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="Groovy">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+    <object language="JavaScript">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+  </component>
+</application>
