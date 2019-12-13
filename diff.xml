@@ -15,6 +15,11 @@
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
