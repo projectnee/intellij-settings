@@ -9,7 +9,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -26,11 +25,11 @@
     <mask>*Interceptor.groovy</mask>
     <mask>*.handlebars</mask>
     <mask>*.gsp</mask>
-    <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.groovy</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
