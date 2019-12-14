@@ -25,9 +25,9 @@
     <mask>*.gsp</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.groovy</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
