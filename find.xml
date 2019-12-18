@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,10 +29,10 @@
     <mask>*.handlebars</mask>
     <mask>*.gsp</mask>
     <mask>*.less</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.groovy</mask>
+    <mask>*.js</mask>
   </component>
 </application>
