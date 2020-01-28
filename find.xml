@@ -18,7 +18,6 @@
     <mask>*.spec.ts</mask>
     <mask>*Interceptor.groovy</mask>
     <mask>*.gsp</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.groovy</mask>
@@ -26,5 +25,6 @@
     <mask>*.handlebars</mask>
     <mask>*Class*</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
