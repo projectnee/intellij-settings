@@ -1,17 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,12 +23,12 @@
     <mask>*Interceptor.groovy</mask>
     <mask>*.gsp</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.handlebars</mask>
     <mask>*Class*</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.groovy</mask>
+    <mask>*.js</mask>
   </component>
 </application>
