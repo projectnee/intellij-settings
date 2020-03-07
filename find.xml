@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,12 +25,12 @@
     <mask>*.less</mask>
     <mask>*.handlebars</mask>
     <mask>*Class*</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.groovy</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
