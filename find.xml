@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -20,16 +20,16 @@
     <mask>*.java</mask>
     <mask>*.spec.ts</mask>
     <mask>*Interceptor.groovy</mask>
-    <mask>*.gsp</mask>
     <mask>*.handlebars</mask>
     <mask>*Class*</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
-    <mask>*.groovy</mask>
     <mask>*.ts</mask>
     <mask>*.less</mask>
     <mask>*.scss</mask>
+    <mask>*.gsp</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
