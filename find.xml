@@ -32,8 +32,8 @@
     <mask>*.scss</mask>
     <mask>*.gsp</mask>
     <mask>*Controller.groovy</mask>
-    <mask>*.groovy</mask>
     <mask>*.java</mask>
     <mask>*Service.groovy</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
