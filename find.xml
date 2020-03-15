@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Service.groovy" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -33,7 +34,7 @@
     <mask>*.gsp</mask>
     <mask>*Controller.groovy</mask>
     <mask>*.java</mask>
-    <mask>*Service.groovy</mask>
     <mask>*.groovy</mask>
+    <mask>*Service.groovy</mask>
   </component>
 </application>
