@@ -34,5 +34,6 @@
     <mask>*Controller.groovy</mask>
     <mask>*.groovy</mask>
     <mask>*.java</mask>
+    <mask>*Service.groovy</mask>
   </component>
 </application>
