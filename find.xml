@@ -25,7 +25,6 @@
     <mask>*HelperService.groovy</mask>
     <mask>*.spec.ts</mask>
     <mask>*Interceptor.groovy</mask>
-    <mask>*.handlebars</mask>
     <mask>*Class*</mask>
     <mask>*.json</mask>
     <mask>*.</mask>
@@ -42,5 +41,6 @@
     <mask>*.groovy</mask>
     <mask>*service.ts</mask>
     <mask>*.js</mask>
+    <mask>*.handlebars</mask>
   </component>
 </application>
