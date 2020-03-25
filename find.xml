@@ -5,10 +5,13 @@
     <option name="defaultScopeName" value="Changed Files" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.handlebars" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -34,10 +37,10 @@
     <mask>*component.html</mask>
     <mask>*component.ts</mask>
     <mask>*service.ts</mask>
-    <mask>*.handlebars</mask>
-    <mask>*.less</mask>
     <mask>*.cpmsp</mask>
     <mask>*.groovy</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
+    <mask>*.handlebars</mask>
   </component>
 </application>
