@@ -36,5 +36,6 @@
     <mask>*.handlebars</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.cpmsp</mask>
   </component>
 </application>
