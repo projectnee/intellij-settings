@@ -2,11 +2,4 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
-  <component name="UISettings">
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="25" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
-  </component>
 </application>
