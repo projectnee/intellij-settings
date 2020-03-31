@@ -34,13 +34,16 @@
       </entry>
       <entry key="Merge">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
     </option>
