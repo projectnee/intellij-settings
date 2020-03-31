@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -16,7 +16,6 @@
     <mask>show.gsp</mask>
     <mask>*spec.ts</mask>
     <mask>*HelperService.groovy</mask>
-    <mask>*.spec.ts</mask>
     <mask>*Interceptor.groovy</mask>
     <mask>*Class*</mask>
     <mask>*.json</mask>
@@ -38,5 +37,6 @@
     <mask>*catalogs.js</mask>
     <mask>*.js</mask>
     <mask>*.groovy</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
