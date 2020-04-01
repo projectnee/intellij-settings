@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*_build.js;*_build.js.map;*spec.ts;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="template" type="GSP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="social-link-modal.handlebars" type="PLAIN_TEXT" />
