@@ -3,12 +3,12 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*_build.js;*_build.js.map;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="template" type="GSP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="social-link-modal.handlebars" type="PLAIN_TEXT" />
       <mapping pattern="Class" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="cur" type="PLAIN_TEXT" />
       <mapping ext="handlebars" type="PLAIN_TEXT" />
+      <mapping ext="cur" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="rels" type="XML" />
