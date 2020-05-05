@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c3b1787c-5e6c-4f2f-8ab6-2a47a7e98a7e" name="mstefanov-vmw">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="snaxor" />
     <option name="AUTH_TYPE" value="BASIC" />
